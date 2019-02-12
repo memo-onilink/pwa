@@ -4,15 +4,15 @@ const  CACHE_INMUTABLE='cacheInmutable_v1';
 
 const APP_SHELL=[
   //  '/',
-    '/index.html',
-    '/css/style.css',
-    '/img/avatars/hulk.jpg',
-    '/img/avatars/ironman.jpg',
-    '/img/avatars/spiderman.jpg',
-    '/img/avatars/thor.jpg',
-    '/img/avatars/wolverine.jpg',
-    '/img/favicon.ico',
-    '/js/app.js'
+    'index.html',
+    'css/style.css',
+    'img/avatars/hulk.jpg',
+    'img/avatars/ironman.jpg',
+    'img/avatars/spiderman.jpg',
+    'img/avatars/thor.jpg',
+    'img/avatars/wolverine.jpg',
+    'img/favicon.ico',
+    'js/app.js'
 ];
 
 const APP_INMUTABLE=[
