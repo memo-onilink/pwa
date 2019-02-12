@@ -3,7 +3,7 @@ const  CACHE_DYNAMIC='cacheDinamico_v1';
 const  CACHE_INMUTABLE='cacheInmutable_v1';
 
 const APP_SHELL=[
-    '/',
+  //  '/',
     '/index.html',
     '/css/style.css',
     '/img/avatars/hulk.jpg',

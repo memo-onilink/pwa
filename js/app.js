@@ -1,4 +1,7 @@
 
+var url=window.location.href;
+var swlocation='/pwa/sw.js';
+
 if(navigator.serviceWorker){
 
     navigator.serviceWorker.register('sw.js');
