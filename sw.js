@@ -1,4 +1,4 @@
-const  CACHE_STATIC='cacheStatic_v1';
+const  CACHE_STATIC='cacheStatic_v2';
 const  CACHE_DYNAMIC='cacheDinamico_v1';
 const  CACHE_INMUTABLE='cacheInmutable_v1';
 
